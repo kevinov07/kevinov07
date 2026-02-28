@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Kevin Andres</h1>
-<h3 align="center">A passionate software engineering student from Colombia.</h3>
+<h3 align="center">A passionate software engineering from Colombia.</h3>
 
 <p>
   - 🌱 I’m currently learning <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
